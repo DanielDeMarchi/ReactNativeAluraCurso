@@ -1,4 +1,5 @@
 # React Native Curso
-Trabalhando com AsyncStorage / Navegação / Function components
+Alura
+O que foi estudado? AsyncStorage / Navegação / Function components
 
 *Projeto testado em Android.
