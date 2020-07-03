@@ -4,4 +4,4 @@ O que foi estudado? AsyncStorage / Navegação / Function components
 
 *Projeto testado em Android.
 
-Api para login: https://github.com/danieldemarchidev/react-native-alura-curso-api
+Api utilizada: https://github.com/alura-cursos/instalura-api
